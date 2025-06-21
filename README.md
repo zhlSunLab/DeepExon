@@ -10,12 +10,8 @@
 
 ## Special file
 
-"seq_data_exon.txt" ： This file contains the regions encoded by different exons in the protein sequence, and distinguishes them using alternating capitalization.
-"Amino_acid_position_probability.pkl" : This file records the probability of each amino acid appearing at its corresponding position.
-"Conditional_dipeptide_probability.pkl" : This file records the probability of conditional dipeptides.
+`./data/seq_data_exon.txt`: This file contains the regions encoded by different exons in the protein sequence, and distinguishes them using alternating capitalization.
 
+`./data/Amino_acid_position_probability.pkl`: This file records the probability of each amino acid appearing at its corresponding position.
 
-  
-  
-  
-  
+`./data/Conditional_dipeptide_probability.pkl`: This file records the probability of conditional dipeptides.
